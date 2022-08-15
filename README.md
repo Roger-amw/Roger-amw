@@ -1,4 +1,4 @@
-👋 Hi, I’m @Roger-amw, bioinformtician with strong biological background.
+👋 Hi, I’m @Roger-amw, bioinformatician with strong biological background.
 
 👀 I’m interested in developing my skills on bioinformatics. I’m currently working on Polygenic Risk Score analysis on human low-coverage WGS data.
   
