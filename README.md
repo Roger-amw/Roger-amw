@@ -4,7 +4,7 @@
   
 🌱 I'm also familiar with metagenomics, RNAseq, smallRNAseq, genomes assembly.
     
-💞️ Using python, R, bash and a bunch of open-source software.
+💞️ Using R, python, bash and a bunch of open-source software.
       
 📫 
 
