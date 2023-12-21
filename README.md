@@ -1,6 +1,6 @@
 👋 Hi, I’m @Roger-amw, bioinformatician with strong biological background.
 
-👀 I’m interested in developing my skills on bioinformatics. Lately I finished my PhD project on Polygenic Risk Score analysis and I am wiating for the dissertation defense date.
+👀 I’m interested in developing my skills on bioinformatics. Lately I finished my PhD project on Polygenic Risk Score analysis and I am waiting for the dissertation defense date.
   
 🌱 I'm also familiar with metagenomics, RNAseq, smallRNAseq, genomes assembly.
     
